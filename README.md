@@ -1,4 +1,5 @@
 # Predicting Hypothyroid Patients.
+![hypothyroid_image](https://www.verywellhealth.com/thmb/DFrZMcT_85wQ87a31NFqigXzH8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/overview-of-hypothyroidism-4164534_final-b72106e4545d45afad2caff2910427d9.png)
 
 ## Table of Contents:
 
